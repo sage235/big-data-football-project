@@ -43,10 +43,10 @@ The objective is to uncover match patterns and help coaches or analysts make dat
 ## 📷 Dashboard Previews
 
 ### 🔹 Summary Dashboard
-![Main Dashboard](screenshots/dashboard_page1.png)
+<img width="1012" height="624" alt="Screenshot 2025-08-01 042425" src="https://github.com/user-attachments/assets/2ec4667c-ce00-4074-bd60-d48bba0b13c4" />
 
 ### 🔹 Drill-Through Details
-![Drill-Through View](screenshots/drillthrough_page2.png)
+<img width="1017" height="591" alt="Screenshot 2025-08-01 042446" src="https://github.com/user-attachments/assets/03a74e2b-3706-43a9-8389-6d378e0eb0d8" />
 
 ### 🔹 Key Visual
 ![Key Visual](screenshots/visuals_example.png)
