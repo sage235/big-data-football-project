@@ -49,7 +49,8 @@ The objective is to uncover match patterns and help coaches or analysts make dat
 <img width="1017" height="591" alt="Screenshot 2025-08-01 042446" src="https://github.com/user-attachments/assets/03a74e2b-3706-43a9-8389-6d378e0eb0d8" />
 
 ### 🔹 Key Visual
-![Key Visual](screenshots/visuals_example.png)
+<img width="443" height="366" alt="Screenshot 2025-08-01 050814" src="https://github.com/user-attachments/assets/ba957177-5164-4cea-863a-bf5c0375c5c2" />
+
 
 ## 📈 Results
 
